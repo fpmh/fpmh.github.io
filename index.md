@@ -15,7 +15,7 @@
 
 **Dikgedrukt**
 
-_Schuingedrukt__
+_Schuingedrukt_
 
 `Code`
 
