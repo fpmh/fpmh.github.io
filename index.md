@@ -2,7 +2,7 @@
 layout: default
 permalink: /
 permalink_name: /home
-title: home
+title: hmpf's notitieblok
 
 #detail_image: assets/logo.png
 ---
