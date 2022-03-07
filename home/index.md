@@ -6,6 +6,7 @@ title: home
 
 #detail_image: assets/logo.png
 ---
+# home 
 
 deze github is mijn publieke notitieblok
 
