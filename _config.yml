@@ -19,8 +19,9 @@ highlighter: white
 
 header_pages:
   - index.md
-  - tryhackme.md
-  - hackthebox.md
+  - writeups/index.md
+  - technieken/index.md
+  - overigen/index.md
 
 # set the size of the text to 'large' or 'small', default is small
 font-size: small
