@@ -31,11 +31,7 @@ header_pages:
 # controls how big the shell and font looks
 font-size: small # options: [small] or [large]
 
-menu:
-  home: /
-  #categories: /categories/
-  #about: /about/
-  archives: /archives/
-  tags: /tags/
-  #sitemap: /sitemap.xml
-  #commonweal: /404.html
+header_pages:
+  - index.md
+  - read-me.md
+  - preview.md
