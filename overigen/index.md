@@ -1,5 +1,5 @@
 ---
-layout: overigen
+page: overigen
 permalink: /overigen
 permalink_name: /overigen
 title: overigen
