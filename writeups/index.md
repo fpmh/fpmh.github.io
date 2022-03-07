@@ -1,5 +1,5 @@
 ---
-titel: writeups
+page: writeups
 permalink: /writeups
 permalink_name: /writeups
 title: writeups
