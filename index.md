@@ -6,7 +6,7 @@ title: hmpf's notitieblok
 
 #detail_image: assets/logo.png
 ---
-# **home** 
+# **Home** 
 
 Welkom op mijn Github pagina. Op deze pagina zal ik mijn notities m.b.t. CTF's publiceren.
 
