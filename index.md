@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 permalink: /
 permalink_name: /home
 title: home
