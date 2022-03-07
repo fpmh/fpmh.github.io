@@ -9,7 +9,6 @@ title: writeups
 ik heb verschillende soorten write-ups in de aanbieding, waaronder tryhackme en hackthebox. flags worden **niet** weergegeven.
 
 ## **tryhackme write-ups**
-
 [dogcat write-up](https://fpmh.github.io/writeups/tryhackme/dogcat.md)
 
 
