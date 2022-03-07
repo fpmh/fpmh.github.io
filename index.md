@@ -6,13 +6,13 @@ title: hmpf's notitieblok
 
 #detail_image: assets/logo.png
 ---
-# home 
+# **home** 
 
-deze github is mijn publieke notitieblok
+Welkom op mijn Github pagina. Op deze pagina zal ik mijn notities m.b.t. CTF's publiceren. 
 
-add me op discord (hmpf#7492) als je:
-- een foutje heb gevonden
-- samen wil hekke en knowledge wil sharen
-- verliefd op me bent
+Add me op discord (hmpf#7492) als je:
+- een foutje heb gevonden in één van de artikelen;
+- samen wil hekke en knowledge wil sharen;
+- verliefd op me bent.
 
-ps ik ben geen blogger dit is geen blog 
+PS: ik ben geen blogger, dit is geen blog. 
