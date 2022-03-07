@@ -8,4 +8,4 @@ title: technieken
 
 ---
 
-# write-ups
+# technieken
