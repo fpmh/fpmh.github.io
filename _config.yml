@@ -4,7 +4,7 @@ title: "https://fpmh.github.io/"
 tagline: "add me op discord: hmpf#7492"
 description: "vooralsnog geen description kunnen bedenken"
 github_username: fpmh
-baseurl: "/"
+baseurl: "/home"
 url: "https://fpmh.github.io/"
 
 plugins:
