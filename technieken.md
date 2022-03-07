@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /technieken
+permalink: /technieken/
 permalink_name: /technieken
 title: hmpf's notitieblok
 ---
