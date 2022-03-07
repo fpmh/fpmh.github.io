@@ -1,6 +1,6 @@
 ---
 layout: writeups
-permalink: /
+permalink: /writeups
 permalink_name: /writeups
 title: writeups
 
