@@ -1,5 +1,5 @@
 ---
-layout: writeups
+titel: writeups
 permalink: /writeups
 permalink_name: /writeups
 title: writeups
