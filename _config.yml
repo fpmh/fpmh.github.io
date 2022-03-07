@@ -20,8 +20,8 @@ highlighter: white
 header_pages:
   - index.md
   - writeups.md
-  - technieken/index.md
-  - overigen/index.md
+  - technieken.md
+  - overigen.md
 
 # set the size of the text to 'large' or 'small', default is small
 font-size: small
