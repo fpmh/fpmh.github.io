@@ -1,55 +1,32 @@
 remote_theme: tareqdandachi/jekyll-shell-theme
-#title: Titel!
-#description: Description!
 
-#lang: nl-NL
+# This is an example of what an '_config.yml' file should look like
+# when using jekyll-shell-theme. You should use this as a guide or
+# just copy+paste it and modify some of the content to begin with.
 
-# Pages to include in header navigation
-#nav_pages:
-#  - index.html
-#  - talks.md
-#  - press.md
-#  - about.md
-#  - contact.md
+title: Page Title
+email: email@domain.xyz
+description: >- # this means to ignore newlines until "baseurl:"
+  A paragraph describing your webpage.
+baseurl: "/blog" # the subpath of your site
+url: "domain.xyz" # the base hostname & protocol for your site
+twitter_username: tareqdandachi
+github_username:  tareqdandachi
 
-# Pages to include in footer navigation
-#footer_pages:
-#  - books.md
-#  - fine-print.md
+# Required plugins for the theme to work properly
+plugins:
+  - jekyll-remote-theme
+  - jemoji
 
-# Disqus login information, for comments
-#disqus:
-#  shortname: DISQUS_USERNAME
+sass:
+  style: compressed
 
-# Links to include on the contact page
-#contact_links:
-#  - name: Twitter
-#    url: https://twitter.com/BenBalter
-#    icon: twitter
-#  - name: Facebook
-#    url: https://facebook.com/BenBalter
-#    icon: facebook
+highlighter: rouge #selecting the highlighter, default is rouge
 
-# Front matter defaults
-#defaults:
-#  -
-#    scope:
-#      path: ""
-#      type: "posts"
-#    values:
-#      layout: post
-#      comments: true
-#  -
-#    scope:
-#      path: ""
-#      type: "pages"
-#    values:
-#      layout: page
-#      comments: false
+header_pages:
+  - index.md
+  - about.md
+  - a-third-page.md
 
-# Plugins
-#plugins:
-#  - jekyll-seo-tag
-#  - jekyll-avatar
-#  - jekyll-github-metadata
-#  - jekyll-feed
+# controls how big the shell and font looks
+font-size: small # options: [small] or [large]
