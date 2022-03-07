@@ -19,7 +19,7 @@ highlighter: white
 
 header_pages:
   - index.md
-  - writeups.md
+  - writeups/index.md
   - technieken/index.md
   - overigen/index.md
 
