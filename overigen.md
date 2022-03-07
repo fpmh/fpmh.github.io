@@ -7,4 +7,4 @@ title: hmpf's notitieblok
 
 # **Overigen** 
 
-Ik weet zelf ook nog niet zo goed wat ik met deze categorie aan moet
+Overigen-sectie voor overige notities. 
