@@ -1,24 +1,7 @@
-### Welkom op mijn Github blog!
+## write-ups
 
-## Dit is een testpagina.
+ik heb verschillende write-ups van tryhackme en hackthebox CTF's in de aanbieding. vlaggen worden *niet* weergegeven. veel leesplezier.
 
-# Test!
+[tryhackme write-ups](https://fpmh.github.io/tryhackme/)
+[hackthebox write-ups](https://fpmh.github.io/hackthebox/)
 
-
-1. Eén
-2. Twee
-3. Drie
-
-- Opsomming
-- Vervolg
-- Vervolg
-
-**Dikgedrukt**
-
-_Schuingedrukt_
-
-`Code`
-
-[Site](https://google.com)
-
-![Foto](https://i.pinimg.com/750x/33/32/6d/33326dcddbf15c56d631e374b62338dc.jpg)
