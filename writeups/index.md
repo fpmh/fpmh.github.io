@@ -1,11 +1,10 @@
 ---
-page: writeups
+layout: writeups
 permalink: /writeups
 permalink_name: /writeups
 title: writeups
 
 #detail_image: assets/logo.png
-
 ---
 
 # write-ups
