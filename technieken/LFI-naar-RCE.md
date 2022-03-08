@@ -6,7 +6,7 @@ title: hmpf's notitieblok
 ---
 
 
-# LFI naar RCI middels log poisoning
+# LFI naar RCE middels log poisoning
 Local File Inclusion is te escaleren naar Remote Code Execution middels log poisoning. 
 
 Hoewel je met een LFI vulnerability niet direct kan schrijven in bestanden, wordt wellicht de data die jij genereert wel uitgeschreven in logbestanden. Een voorbeeld hiervan is het Apache2 access.log bestand. Hierin worden webrequests die gemaakt zijn naar de server **inclusief headers** gelogd. Door een PHP payload in bijvoorbeeld de User-Agent header te verwerken, kunnen we zo onze LFI escaleren naar RCE, door het logbestand in de browser te laden.
