@@ -17,7 +17,9 @@ Ter best practice kun je met behulp van tools zoals [wfuzz](https://github.com/x
 
 In onderstaande voorbeeld wordt de Apache2 access.log (/var/log/apache2/access.log) gebruikt. Omdat onder andere de User-Agent header van de webrequests naar de server hierin worden gelogd, wordt dit de point of entry. Met behulp van bijvoorbeeld BurpSuite, cURL of de networktab in de browser devtools kun je een nieuw request maken met je PHP payload in de User-Agent header. 
 
-```<?php system($_GET['cmd']);```
+```php
+<?php system($_GET['cmd']);
+```
 
 
 
