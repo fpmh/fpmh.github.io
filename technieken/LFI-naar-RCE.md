@@ -20,4 +20,4 @@ Welke data je zal gaan manipuleren is afhankelijk van welke data opgeslagen word
 ```php
 <?php system($_GET['cmd']);```
 
-![image]()
+
