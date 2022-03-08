@@ -11,7 +11,7 @@ Local File Inclusion is te escaleren naar Remote Code Execution middels log pois
 
 Hoewel je met een LFI vulnerability niet direct kan schrijven in bestanden, wordt wellicht de data die jij genereert wel uitgeschreven in logbestanden. Het meestvoorkomende voorbeeld hiervan is het /var/log/apache2/access.log bestand. Dit bestand logt de webrequests die gemaakt zijn naar de server, **inclusief headers**. Door een PHP payload in bijvoorbeeld de User-Agent header te verwerken, kunnen we zo onze LFI escaleren naar RCE, door het logbestand in de browser te laden.
 
-Ter best practice kun je met behulp van tools zoals [wfuzz](https://github.com/xmendez/wfuzz) of [ffuf](https://github.com/ffuf/ffuf) en [een wordlist](https://raw.githubusercontent.com/drtychai/wordlists/master/intruder/lfi.txt) fuzzen naar logbestanden op je target. Zodra je toegang hebt tot een logbestand kun je - afhankelijk van wat er gelogd wordt - de log poisonen. 
+Met behulp van tools zoals [wfuzz](https://github.com/xmendez/wfuzz) of [ffuf](https://github.com/ffuf/ffuf) en [een wordlist](https://raw.githubusercontent.com/drtychai/wordlists/master/intruder/lfi.txt) fuzzen naar logbestanden op je target. Zodra je toegang hebt tot een logbestand kun je - afhankelijk van wat er gelogd wordt - de log poisonen. 
 
 ![image]()
 
